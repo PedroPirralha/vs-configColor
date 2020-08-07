@@ -1,6 +1,4 @@
 {
-    "editor.minimap.enabled": false,
-    "workbench.iconTheme": "vs-seti",
     "workbench.colorCustomizations": {
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#0000ff",
