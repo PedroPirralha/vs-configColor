@@ -1,5 +1,6 @@
 # vs-configColor
-pt-br
+
+PT-BR
 -----
 Para poder ultilizar a tabela de cores o arquivo precisa estar na mesma local do projeto
 
@@ -7,7 +8,7 @@ se você usa vs-code terá que configurá-lo, ao lado da tabela existe um arquiv
 este arquivo deve ser colado nas configurações vs-code
 
 ------------------------------------------------------------------------------
-us
+English
 ----
 To use the color table, the file must be in the same location as the project
 
